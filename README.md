@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ You can see the other developer of ElusiveRP Here: [RoadstersLink]
+- ⚡ You can see the other developer of ElusiveRP [Here]
 
 ### Languages and Tools:
 
@@ -39,7 +39,7 @@
 
 </details>
 
-[RoadstersLink]: https://github.com/Roadsters
+[Here]: https://github.com/Roadsters
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
