@@ -2,11 +2,11 @@
 
 ## I've Been Developing For 7 Months!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 My Current Project is working on Elusive Roleplay
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to ride scooters and perform in action sports
 
 ### Languages and Tools:
 
