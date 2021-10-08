@@ -3,7 +3,7 @@
 ## I've Been Developing For 7 Months!
 
 - 🔭 My Current Project is working on Elusive Roleplay
-- 🌱 I’m currently learning HTML, CSS & JS 🤣
+- 🌱 I’m currently learning HTML, CSS & JS
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ You can see the other developer of ElusiveRP [Here]
