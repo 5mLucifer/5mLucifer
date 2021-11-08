@@ -1,12 +1,11 @@
 ### Hi there, I'm Lucifer 👋
 
-## I've Been Developing For 7 Months!
+## I've Been Developing For 8 Months!
 
-- 🔭 My Current Project is working on Elusive Roleplay
-- 🌱 I’m currently learning HTML, CSS & JS
+- 🔭 My Current Project is working on PrimeRP
+- 🌱 I’m currently learning C++ | Java | JavaScript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ You can see the other developer of ElusiveRP [Here]
 
 ### Languages and Tools:
 
@@ -29,22 +28,3 @@
 
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="5mLucifer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=5mLucifer&show_icons=true&hide_border=true" />
-
-</details>
-
-[Here]: https://github.com/Roadsters
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
