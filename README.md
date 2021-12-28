@@ -2,7 +2,7 @@
 
 ## I've Been Developing For 8 Months!
 
-- 🔭 My Current Project is working on PrimeRP
+- 🔭 My Current Project is working on Elusive Remastered
 - 🌱 I’m currently learning C++ | Java | JavaScript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
