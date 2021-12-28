@@ -5,7 +5,7 @@
 - 🔭 My Current Project is working on Elusive Remastered
 - 🌱 I’m currently upgrading my skills with LUA | JS | HTML | CSS | C | C++ | Java
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
