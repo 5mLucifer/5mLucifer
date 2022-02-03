@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucifer 👋
 
-## I've Been Developing For 8 Months!
+## I've Been Developing For 11 Months!
 
 - 🔭 My Current Project is working on Elusive Remastered
 - 🌱 I’m currently upgrading my skills with LUA | JS | HTML | CSS | C | C++ | Java
