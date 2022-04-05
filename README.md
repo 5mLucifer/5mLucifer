@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucifer</h1>
+<h1 align="center">Hi There! I'm Lucifer</h1>
 <h3 align="center">I Am A Frontend FiveM Developer</h3>
 
 - 🔭 I'm currently working on [Pristine Roleplay](https://dsc.gg/pristinerp)
