@@ -1,7 +1,7 @@
-<h1 align="center">Hi There! I'm God</h1>
+<h1 align="center">Hi There! I'm Luci!</h1>
 <h3 align="center">I Am A Frontend FiveM Developer</h3>
 
-- 🔭 I'm currently working on [Cerberus Roleplay](https://discord.gg/quhgtxuh88)
+- 🔭 I'm currently working on [Elusive Roleplay (Pre-Alpha) ](https://discord.gg/quhgtxuh88)
 
 - 👨‍💻 Discord Invite Link [Click Me!](https://discord.gg/tUHgahtP3t)
 
