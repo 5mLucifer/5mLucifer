@@ -1,9 +1,9 @@
-<h1 align="center">Hi There! I'm Luci!</h1>
+<h1 align="center">Hi There! I'm SK!</h1>
 <h3 align="center">I Am A Frontend FiveM Developer</h3>
 
 - 🔭 I'm currently working on [Elusive Roleplay (Pre-Alpha) ](https://discord.gg/elusiveroleplay)
 
-- 👨‍💻 Discord Invite Link [Click Me!](https://discord.gg/3uHKm82ndd)
+- 👨‍💻 Discord Invite Link [Click Me!](https://discord.gg/skdevelopments)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
